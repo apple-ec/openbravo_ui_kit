@@ -1,0 +1,21 @@
+name: openbravouikit
+description: UI Kit for flutter apps built on Openbravo as backend
+version: 0.0.1
+author: Easycloud Team
+homepage: https://github.com/apple-ec/openbravo_ui_kit.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
